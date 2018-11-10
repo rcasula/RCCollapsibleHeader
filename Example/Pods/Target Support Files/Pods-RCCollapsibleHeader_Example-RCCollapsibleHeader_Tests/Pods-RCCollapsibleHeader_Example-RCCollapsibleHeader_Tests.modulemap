@@ -1,0 +1,6 @@
+framework module Pods_RCCollapsibleHeader_Example_RCCollapsibleHeader_Tests {
+  umbrella header "Pods-RCCollapsibleHeader_Example-RCCollapsibleHeader_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

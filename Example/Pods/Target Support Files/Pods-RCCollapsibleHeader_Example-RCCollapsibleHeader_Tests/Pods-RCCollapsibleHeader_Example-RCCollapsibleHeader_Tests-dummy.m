@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_RCCollapsibleHeader_Example_RCCollapsibleHeader_Tests : NSObject
+@end
+@implementation PodsDummy_Pods_RCCollapsibleHeader_Example_RCCollapsibleHeader_Tests
+@end

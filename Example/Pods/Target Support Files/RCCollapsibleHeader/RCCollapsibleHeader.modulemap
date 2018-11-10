@@ -1,0 +1,6 @@
+framework module RCCollapsibleHeader {
+  umbrella header "RCCollapsibleHeader-umbrella.h"
+
+  export *
+  module * { export * }
+}

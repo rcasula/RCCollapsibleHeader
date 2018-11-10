@@ -1,0 +1,23 @@
+{
+  "name": "RCCollapsibleHeader",
+  "version": "0.1.0",
+  "summary": "Easy to use Collapsible Header.",
+  "description": "RCCollapsibleHeader is an easy to use Collapsible Header View.\nInspired by SimpleCollapsingHeaderView",
+  "homepage": "https://github.com/robcas3/RCCollapsibleHeader",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "robcas3": "rcasula3@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/robcas3/RCCollapsibleHeader.git",
+    "tag": "0.1.0"
+  },
+  "swift_version": "4.2",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "RCCollapsibleHeader/Classes/**/*"
+}
