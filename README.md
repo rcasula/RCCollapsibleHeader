@@ -1,6 +1,6 @@
 # RCCollapsibleHeader
 
-[![CI Status](https://img.shields.io/travis/Roberto Casula/RCCollapsibleHeader.svg?style=flat)](https://travis-ci.org/Roberto Casula/RCCollapsibleHeader)
+[![CI Status](https://img.shields.io/travis/robcas3/RCCollapsibleHeader.svg?style=flat)](https://travis-ci.org/robcas3/RCCollapsibleHeader)
 [![Version](https://img.shields.io/cocoapods/v/RCCollapsibleHeader.svg?style=flat)](https://cocoapods.org/pods/RCCollapsibleHeader)
 [![License](https://img.shields.io/cocoapods/l/RCCollapsibleHeader.svg?style=flat)](https://cocoapods.org/pods/RCCollapsibleHeader)
 [![Platform](https://img.shields.io/cocoapods/p/RCCollapsibleHeader.svg?style=flat)](https://cocoapods.org/pods/RCCollapsibleHeader)
